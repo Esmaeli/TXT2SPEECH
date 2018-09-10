@@ -1,0 +1,10 @@
+C:\Users\Esmaeli\source\repos\TXT2SPCH\TXT2SPCH\bin\Debug\TXT2SPCH.exe.config
+C:\Users\Esmaeli\source\repos\TXT2SPCH\TXT2SPCH\bin\Debug\TXT2SPCH.exe
+C:\Users\Esmaeli\source\repos\TXT2SPCH\TXT2SPCH\bin\Debug\TXT2SPCH.pdb
+C:\Users\Esmaeli\source\repos\TXT2SPCH\TXT2SPCH\obj\Debug\TXT2SPCH.csprojAssemblyReference.cache
+C:\Users\Esmaeli\source\repos\TXT2SPCH\TXT2SPCH\obj\Debug\TXT2SPCH.Form1.resources
+C:\Users\Esmaeli\source\repos\TXT2SPCH\TXT2SPCH\obj\Debug\TXT2SPCH.Properties.Resources.resources
+C:\Users\Esmaeli\source\repos\TXT2SPCH\TXT2SPCH\obj\Debug\TXT2SPCH.csproj.GenerateResource.cache
+C:\Users\Esmaeli\source\repos\TXT2SPCH\TXT2SPCH\obj\Debug\TXT2SPCH.csproj.CoreCompileInputs.cache
+C:\Users\Esmaeli\source\repos\TXT2SPCH\TXT2SPCH\obj\Debug\TXT2SPCH.exe
+C:\Users\Esmaeli\source\repos\TXT2SPCH\TXT2SPCH\obj\Debug\TXT2SPCH.pdb
